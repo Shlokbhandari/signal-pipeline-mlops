@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+
+# NOTE: sample metrics.json and run.log will be force-added later for submission
+metrics.json
+run.log
