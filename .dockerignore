@@ -1,0 +1,8 @@
+.git
+__pycache__
+*.pyc
+.venv
+venv/
+test_*.py
+metrics.json
+run.log
