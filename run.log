@@ -1,0 +1,7 @@
+2026-07-06 23:31:42,019 - INFO - Job started.
+2026-07-06 23:31:42,019 - INFO - Config loaded and validated. seed=42, window=5, version=v1
+2026-07-06 23:31:42,040 - INFO - Dataset loaded. rows=10000
+2026-07-06 23:31:42,040 - INFO - Computing rolling mean with window=5...
+2026-07-06 23:31:42,042 - INFO - Rolling mean and signal computed.
+2026-07-06 23:31:42,042 - INFO - Metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 23, 'seed': 42, 'status': 'success'}
+2026-07-06 23:31:42,042 - INFO - Job ended. status=success
